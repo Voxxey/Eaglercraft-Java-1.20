@@ -60,13 +60,11 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 
 ## 👨‍💻  Ink Boi-Kun
 ### 🌟 Elevated our website's quality
-### 🏆 Earned the "OP" status
+### 🏆 Earned the "mega" status on his way to earning "OP"!
 ### 🤼 Tries to bring the Eaglercraft community together
 ### 🐛 Meticulously fixed bugs
 ### 🫠 Helped make graphics and designed logos
 ### 🪦 Owner and Founder of a DMCA'd Client
-### 🚨 Has been working on Eaglercraft since Lax1Dude
-### 🌠Co-Creator of Eaglercraft 1.20
 ### 🎤 Holds the title for the fourth Eaglerbrother™ (first was AR-DEV-1)
 
 
