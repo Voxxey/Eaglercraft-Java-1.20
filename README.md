@@ -43,6 +43,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### 🎮 Made his own gaming development organization (via Fungang Entertainment™)
 ### 🔨 Been working on Eaglercraft ever since 1.8.9
 ### 🎤 Holds the title for the second Eaglerbrother™ (first was AR-DEV-1)
+### ✨ Created Eaglercraft 1.20
 
 ## 👨‍💻 FlamePVPCodes
 ### 🌟 Elevated our website's quality
