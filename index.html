@@ -16,15 +16,12 @@
     <script src="fix-webm-duration.js"></script>
 </head>
 <body style="margin: 0; width: 100vw; height: 100vh; overflow: hidden;">   
-   
-    <div id="game-frame">
-                
-        <div id="Singleplayer">
              <a href="javascript:void(0);" onclick="loadContent('Singleplayer')"></a>
+    <div id="game-frame">
+        <div id="Singleplayer">
   <img src="assets/buttons/singleplayer.png" id="Singeplayer" alt="Singleplayer">
 </div>
-    </div>
-    <script>
+            <script>
     function loadContent(contentId) {
         var contentAreas = document.querySelectorAll('[id^="content"]');
         contentAreas.forEach(function (element) {
@@ -34,6 +31,6 @@
         document.getElementById(contentId).style.display = 'block';
     }
 </script>
-
+    </div>
 </body>
 </html>
