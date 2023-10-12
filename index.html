@@ -16,21 +16,32 @@
     <script src="fix-webm-duration.js"></script>
 </head>
 <body style="margin: 0; width: 100vw; height: 100vh; overflow: hidden;">   
-             <a href="javascript:void(0);" onclick="loadContent('Singleplayer')"></a>
+            <img src="assets/buttons/singleplayer.png" alt="Singleplayer" onclick="loadContent('Singleplayer')">
+                  <img src="assets/buttons/multiplayer.png" alt="Multiplayer" onclick="loadContent('Multiplayer')">
+                         <img src="assets/buttons/realms.png" alt="Realms" onclick="loadContent('Realms')">
     <div id="game-frame">
-        <div id="Singleplayer">
-  <img src="assets/buttons/singleplayer.png" id="Singeplayer" alt="Singleplayer">
+     <div id="Singleplayer" class="content">
+  
 </div>
-            <script>
-    function loadContent(contentId) {
-        var contentAreas = document.querySelectorAll('[id^="content"]');
-        contentAreas.forEach(function (element) {
-            element.style.display = 'none';
-        });
-
-        document.getElementById(contentId).style.display = 'block';
-    }
-</script>
+             <div id="Multiplayer" class="content">
+  
+</div>
+             <div id="Realms" class="content">
+      <h2>Realms</h2>
+        <p>Realms will be supported soon !</p>
+</div>
     </div>
+     <script>
+        function loadContent(contentId) {
+            var content = document.getElementById(contentId);
+
+            var contentElements = document.getElementsByClassName("content");
+            for (var i = 0; i < contentElements.length; i++) {
+                contentElements[i].style.display = "none";
+            }
+
+            content.style.display = "block";
+        }
+    </script>
 </body>
 </html>
