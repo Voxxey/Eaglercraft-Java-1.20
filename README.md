@@ -59,6 +59,7 @@ NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 ### 🎤 Holds the title for the third Eaglerbrother™ (first was AR-DEV-1)
 
 ## 👨‍💻  Ink Boi-Kun
+###   Just keeps updating README , for some reason , is not helping , I give him final warning , so if Ink Boi-Kun is reading please do something except for updating README and crediting yourself for stuff you did not do , Regards , AR-DEV-1 , Lead Dev , Eagler Brothers aka Eagler Devs
 ### 🌟 Elevated our website's quality
 ### 🏆 Earned the "mega" status on his way to earning "OP"!
 ### 🤼 Tries to bring the Eaglercraft community together
