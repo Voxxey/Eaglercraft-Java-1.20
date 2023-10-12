@@ -1,0 +1,10 @@
+[
+  {
+  "world.class": {
+"type": "minecraft:fixed",
+    "version": "minecraft:1.20",
+       "new.data": "minecraft:data.worlds",
+         "minecraft.new.world": "-",
+             
+}
+]
