@@ -2,11 +2,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('https://raw.githubusercontent.com/EaglerDevs/Eaglercraft-Java-1.20/assets/login.png'); 
+  background-image: url('https://raw.githubusercontent.com/EaglerDevs/Eaglercraft-Java-1.20/main/assets/login.png'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: none;
 }
 
