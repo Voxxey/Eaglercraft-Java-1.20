@@ -1,0 +1,51 @@
+// World JSON Data here [Kinda]
+// lol
+[
+{
+  "world": {
+    "name": "minecraft:overworld",
+    "settings": {
+      "seed": 303666303 ,
+      "generate-structures": true,
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "minecraft:plains"
+      },
+      "chunk_generator": {
+        "type": "minecraft:noise",
+        "settings": {
+          "density_factor": 1.0,
+          "density_offset": 0.0,
+          "simplex_surface_noise": true,
+          "random_density_offset": true,
+          "island_noise_override": 1.0,
+          "amplified": false
+        }
+      },
+      "structures": {
+        "structures": {
+          "village": {
+            "spacing": 32,
+            "separation": 8,
+            "salt": 303666303
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
