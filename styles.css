@@ -21,3 +21,6 @@ body {
         border: 2px solid #ccc; /* Add a border */
         border-radius: 5px; /* Add rounded corners */
     }
+      .content {
+            display: none;
+        }
